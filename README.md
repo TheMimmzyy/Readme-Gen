@@ -1,9 +1,9 @@
 # Readme Generator
-  ![GitHub](https://themimmzyy.github.io/Readme-Gen/TheMimmzyy/Readme Generator)
-  ## Description <a name="description"></a>
+  
+  ### Description <a name="description"></a>
   - A program to genearate quality readme's.
   ## Table of Contents
-  1. [Description] (#Description)
+  1. [Description](#description)
   2. [Installation Instructions](#Installation)
   3. [Usage Information](#usage)
   4. [License](#license)

@@ -1,8 +1,8 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
-  ![GitHub](https://themimmzyy.github.io/Readme-Gen/${data.github}/${data.title})
-  ## Description <a name="description"></a>
+  
+  ## Description# Description <a name="Description"></a>
   - ${data.description}
   ## Table of Contents
   1. [Description] (#Description)
