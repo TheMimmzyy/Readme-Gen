@@ -32,4 +32,3 @@
   ## Screenshots <a name="screenshots"></a>
   ![](././screenshots/markdownpic.png)
   ![](././screenshots/programpic.png)
-  
