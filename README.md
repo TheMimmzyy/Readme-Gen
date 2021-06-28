@@ -1,5 +1,5 @@
 # Readme Generator
-  ![GitHub](https://img.shields.io/github/license/TheMimmzyy/Readme Generator)
+  ![GitHub](https://themimmzyy.github.io/Readme-Gen/TheMimmzyy/Readme Generator)
   ## Description <a name="description"></a>
   - A program to genearate quality readme's.
   ## Table of Contents
